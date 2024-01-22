@@ -1,4 +1,4 @@
-### Hi I am Wen-Ying, a front-end developer. 👋
+### Hi, I am Wen-Ying, a front-end developer. 👋
 
 <!--
 **ismeleft/ismeleft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
